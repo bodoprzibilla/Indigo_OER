@@ -5,7 +5,7 @@ header-includes:
 output: 
   slidy_presentation:
     css: bootstrap.min(1).css
-date: '2023-03-22'
+date: '2023-03-23'
 bibliography: r-references.bib
 csl: apa.csl
 knit: (function(inputFile, encoding) {
