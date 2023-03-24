@@ -1,6 +1,5 @@
 # Indigo_OER
 
-Diese Zeile wurde in R-Studio erstellt
+Diese Zeile wurde in R-Studio (lokal) erstellt
 
-
-und diese in Github
+und diese in Github (im Browser)
