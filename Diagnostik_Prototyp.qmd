@@ -1,0 +1,320 @@
+---
+title: "Diagnostik"
+subtitle: "Grundlagen im Spannungsfeld der statusdiagnostischen Klassifikation und prozessbegleitenden Evaluation bei sonderpädagogischem Förderbedarf im Inklusionskontext"
+author: ""
+affiliation: "Bergische Universität Wuppertal"
+format: 
+  revealjs:
+    theme: default
+    logo: "assets/indigo.png"
+    footer: "InDigO - Prototyp - Siegen - Wuppertal" 
+editor: visual
+bibliography: r-references.bib
+csl: apa.csl
+self-contained: true 
+preview-links: true
+---
+
+# Grundlagen der pädagogisch-psychologischen Diagnostik im Spannungsfeld zwischen statusdiagnostischer Klassifikation und prozessbegleitender Evaluation {style="font-size:  50%"}
+
+## Relevanz diagnostischer Kompetenzen im Lehrer:innenberuf (1/2) {style="font-size:  80%"}
+
+-   **Diagnostische Kompetenzen** bilden Schwerpunkte in der bildungswissenchaftlichen Ausbildung von Lehrkräften (aller Schulformen) auf Landes- und Bundesebene [@eickelmann2020b; @kultusministerkonferenz2019a]
+
+-   **Diagnostik** ist zentrale Aufgabe für (sonderpädagogische) Lehrkräfte und Kooperationsanlass zwischen Sonderpädagog:innen und Regelschullehrkräften in inklusiven Settings [@melzer2013; @melzer2015; @neumann2021]
+
+## Relevanz diagnostischer Kompetenzen im Lehrer:innenberuf (2/2) {style="font-size:  75%"}
+
+-   **Pädagogisch-psychologische und diagnostische Kompetenzen** sind zur Ausübung von unterrichtsbezogenen Beratungs- und Beurteilungsaufgaben erforderlich [@kultusministerkonferenz2019a]
+
+    -   *Kompetenz 7*: "Lehrkräfte diagnostizieren Lernvoraussetzungen und Lernprozesse von Schülerinnen und Schülern; sie fördern Schülerinnen und Schüler gezielt und beraten Lernende und deren Eltern."
+    -   *Kompetenz 8*: "Lehrkräfte erfassen die Leistungsentwicklung von Schülerinnen und Schülern und beurteilen Lernprozesse und Leistungen auf der Grundlage transparenter Beurteilungsmaßstäbe."
+
+-   **Diagnostik und individuelle Förderung** als Teilkompetenzen im Handlungsfeld *Lernen und Leisten fördern* dar [@eickelmann2020, MSW-NRW]
+
+## Diagnostische Kompetenz von Lehrer:innen in der Forschung {style="font-size:  60%"}
+
+-   Obwohl zahlreiche Arbeiten zur diagnostischen Urteilsgenauigkeit vorliegen, ist die **Forschungslage zur diagnostischen Kompetenz als Fähigkeitsfacette** noch vergleichsweise jung und unaussagekräftig [@artelt2009a; @suedkamp2017]
+
+-   Über die Betrachtung diagnostischer Kompetenz als *Akkuratheit diagnostischer Urteile* hinaus, wird diagnostische Kompetenz als **Teilfacette pädagogischer Professionalität** und **zentrale berufsbezogene Fähigkeit** im Lehrer\*innenberuf verstanden [@artelt2009a], z.B.
+
+    -   im COACTIV-Modell als Teilfacette des allgemeinen pädagogischen Wissens und Könnens [@baumert2006]
+    -   als Teilfacette des fünfdimensionalen Modells zu Beratungskompetenz [@brudersimone2010a]
+
+-   In Forschungsarbeiten konnten Zusammenhänge zwischen den Beratungskompetenzen und diagnostischen Kompetenzen von Lehrpersonen ermittelt werden [@klug2012]
+
+## Was ist *Diagnostik*? {#Diagnostik .emphasized style="font-size:  65%"}
+
+::: columns
+::: {.column width="50%"}
+### **Definitionen**
+
+*"\[...\] dient der Beantwortung von Fragestellungen, die sich auf die Beschreibung, Klassifikation, Erklärung oder Vorhersage menschlichen Verhaltens und Erlebens beziehen. Sie schließt die gezielte Erhebung von Informationen über das Verhalten und Erleben eines oder mehrerer Menschen sowie deren relevanter Bedingungen ein."* [@schmidt-atzert2021,2]
+
+*"\[...\] regelgeleitete Sammlung und Verarbeitung von gezielt erhobenen Informationen, die für das Verständnis menschlichen Verhaltens und Erlebens bedeutsam sind."* [@petermann2006a, 16]
+:::
+
+::: {.column width="50%"}
+### **Funktionen und Ziele**
+
+1.  **Erklären**: Bezieht sich auf Ereignisse und Eigenschaften als "Ursache" sowie auf Bedingungen für Aufrechterhaltung von Verhaltens und/oder Erlebensweisen
+2.  **Beschreiben und Klassifizieren**: bezieht sich auf aktuell beobachtbare Eigenschaften und/oder Verhaltensweisen
+3.  **Vorhersagen** (Prognostizieren): Bezieht sich auf die Wahrscheinlichkeit des Auftretens zukünftigen Verhaltens und/oder Erlebens
+4.  **Evaluation** von Zuständen und/oder Verläufen: Bezieht sich auf die Wirkung von Maßnahmen (bspw. Förderangebote oder Änderungen der Lernbedingungen) auf Verhalten und/oder Erleben
+:::
+:::
+
+## Status- vs. Veränderungsdiagnostik {style="font-size:  60%"}
+
+::: columns
+::: {.column width="50%" style="font-size:  80%"}
+### **Statusdiagnostik (summativ)**
+
+<center>![Selektion (modifiziert nach Schmidt-Atzert & Armelang, 2012, S. 21)](assets/Selektion.png "(Abb. übernommen aus @schmidt-atzert2012, S. 21)"){width="310"}</center>
+
+Die **Statusdiagnostik** verfolgt zumeist das Ziel der **Selektion durch Beschreibung und Klassifikation** von Personen und Bedingungen zu einem Zeitpunkt.
+
+Im schulischen Kontext wird bspw. über statusdiagnostische Prozesse und Routinen versucht, eine möglichst gute Passung zwischen Personen und Kontextbedingungen zu erzielen. Bspw. im Rahmen
+
+-   der Schuleingangsdiagnostik
+-   der Schullaufbahnberatung
+-   der Feststellung sonderpädagogischen Förderbedarfes
+-   ...
+:::
+
+::: {.column width="50%" style="font-size:  80%"}
+### **Veränderungsdiagnostik (formativ)**
+
+<center>![Modifikation (modifiziert nach Schmidt-Atzert & Armelang, 2012, S. 21)](assets/Modifikation.png){width="310"}</center>
+
+Die **Veränderungsdiagnostik** verfolgt zumeist das Ziel der **Modifikation bzw. Optimierung** von Verhalten und Bedingungen über einen Zeitraum.
+
+Im schulischen Kontext wird bspw. über veränderungsdiagnostische Routinen versucht, (Lern-)Verhalten und Lernbedingungen über die Zeit zu evaluieren. Bspw. im Rahmen
+
+-   der Lernverlaufsdiagnostik
+
+-   der Evaluation von individuellen Entwicklungsplänen
+
+-   der Überprüfung des Bedarfs an sonderpädagogischer Unterstützung
+
+-   ...
+:::
+:::
+
+## Statusdiagnostische Klassifikation vs. verlaufdiagnostische Beschreibung {style="font-size:  60%"}
+
+::: columns
+::: {.column width="48%" style="font-size:  80%"}
+### Statusdiagnostische Klassifikation
+
+-   Zur **Klassifikation** (als Sonderfall der Beschreibung) werden im inderdiziplinären Kontext **Klassifikationssysteme** verwendet, in denen diagnostische Kategorien nach *Bestimmungsmerkmalen*, *Ausschlussmerkmalen* und *Zeit- und Verlaufsmerkmalen* beschrieben werden.
+
+1.  **Psychische Störungen und körperliche Erkrankungen**: Die Internationale statistische Klassifikation der Krankheiten und verwandter Gesundheitsprobleme (ICD-10 / ICD-11) [@remschmidt2017]
+
+2.  **Psychische Störungen & Psychiatrische Syndrome**: Diagnostisches und Statistisches Manual psychischer Störungen (DSM-V) [@falkai2018]
+
+3.  **Behinderung**: Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit (ICF & ICF-CY) [@worldhealthorganization2001]
+:::
+
+::: {.column width="48%" style="font-size:  80%"}
+### Prozess- bzw. Verlaufdiagnostische Beschreibung
+
+-   Formative diagnostische Ansätze eignen sich im besonderen dazu,
+
+    -   (Lern-)Entwicklungen zu dokumentieren,
+
+    -   Entwicklungsprozesse zu fördern,
+
+    -   und Rückmeldungen zu geben.
+
+-   Dazu werden
+
+    -   ein und dieselben diagnostischen Merkmale oder Merkmalsbereiche (bspw. Lernleistungen oder Symptomausprägung),
+
+    -   im Verlauf,
+
+    -   wiederholt und engmaschig erfasst.
+:::
+:::
+
+## Warum benötigen wir Diagnosen und diagnostische Kategorien? {style="font-size:  75%"}
+
+::: columns
+::: {.column width="50%" style="font-size:  80%"}
+### Komplexitätsreduktion
+
+-   Prozesse der Informationsverarbeitungskapazität laufen häufig automatisch und unkontrolliert ab
+-   Soziale Urteile werden durch Vorwissen, institutionelle Rahmungen und Erwartungen beeinflusst
+-   Die Urteilsbildung unterliegt der Begranztheit der menschlichen Informationsverarbeitungskapazität
+-   "Jede Wahrnehmung setzt Schemata voraus, ist immer Kategorisierung und Konfigurierung, auch Filterung, eben ein gewissermaßen aktiver Vorgang: Unzusammenhängendes wird zusammengesetzt, d.h. als Zusammenhang gedeutet" [@greve1997, 47]
+:::
+
+::: {.column width="50%"}
+![https://giphy.com/gifs/art-abstract-digital-l41lMJNpo5w5bEf1S](images/Pfeilanimation.gif){alt="https://giphy.com/gifs/art-abstract-digital-l41lMJNpo5w5bEf1S" fig-alt="https://giphy.com/gifs/art-abstract-digital-l41lMJNpo5w5bEf1S" fig-align="center" width="434"}
+:::
+:::
+
+## Vor- und Nachteile diagnostischer Klassifikation {style="font-size:  75%"}
+
+::: columns
+::: {.column width="50%" style="font-size:  70%"}
+### Vorteile
+
+-   Diagnostische Kategorien ermöglichen die **interdisziplinäre Kommunikation** zwischen Fachpersonen
+-   Im Gesundheits- und Sozialsystem ist die **Vergabe von Leistungen** (teilweise) an Diagnosen gekoppelt (z.B. im Fall von medizinisch-therapeutischen Versorgungsangeboten)
+-   Die im Rahmen diagnostischen Klassifikationssysteme beschriebenen Bestimmungsmerkmale ermöglichen im Forschungskontext die **Operationalisierung** von Phänomenen
+-   Dies erleichtert die **Auswahl und Ableitung von evidenzbasierten Maßnahmen** auf Basis einer möglichst breiten Grundlage an Forschungsarbeiten (z.B. durch Entwicklung berufsgruppenübergreifender [Leitlinien](https://www.awmf.org/leitlinien) zur Diagnostik und Förderung im Gesundheitswesen)
+:::
+
+::: {.column width="50%" style="font-size:  70%"}
+### Nachteile
+
+-   Schubladendenken ("Wer suchet, der findet!")
+-   Schaffung von Differenz
+-   Reduktion des Menschen auf diagnostische Kriterien gegenüber der Betrachtung komplexer und aufeinandere Bezogener Interaktions- und Beziehungsgefüge
+-   Etikettierung
+-   Labelling
+-   Stigmatisierung
+:::
+:::
+
+# Diagnostik im Kontext von Behinderung und Sonderpädagogischem Förderbedarf {style="font-size:  40%"}
+
+## Behinderung ≠ Sonderpädagogischer Förderbedarf {style="font-size:  60%"}
+
+**Behinderung** und **Sonderpädagogischer Förderbedarf (SPF)** sind 2 unterschiedliche Konzepte für die jeweils unterschiedliche diagnostische Kategoriensysteme angewendet werden
+
+-   Es gibt Kinder, bei denen eine **Behinderung, aber kein Förderbedarf** vorliegt
+    -   beispielsweise haben SuS mit einer Behinderung auf Grund einer Stoffwechselkrankheit nicht zwingend einen Förderbedarf
+-   Es gibt Kinder, bei denen **ein Förderbedarf, aber keine Behinderung** vorliegt
+    -   beispielsweise haben SuS mit Förderschwerpunkt Emotional-soziale Entwicklung häufig keine klinisch diagnostizierte psychische oder Verhaltensstörung
+-   Es gibt Kinder, bei denen **sowohl eine Behinderung als auch einen Förderbedarf** vorliegt
+    -   beispielsweise haben SuS mit Förderschwerpunkt Lernen überproportional häufig auch eine Lernbehinderung
+
+## Behinderung und Sonderpädagogischer Förderbedarf {style="font-size:  75%"}
+
+Bezogen auf die Begriffe bzw. Konzepte ***Behinderung*** und ***Sonderpädagogischer Förderbedarf*** spielen bezogen auf die diagnostische Klassifikation (und damit im Zusammenhang der Zuweisung von Unterstützungsmaßnahmen) mindestens 2 Perspektiven eine Rolle
+
+1.  **Die sozial-rechtliche Perspektive**
+2.  **Die fachwissenschaftliche Perspektive**
+
+## 1. Die sozial-rechtliche Perspektive {style="font-size:  50%"}
+
+::: columns
+::: {.column width="50%"}
+### Behinderung {.column width="50%"}
+
+Das [Sozialgesetzbuch](https://www.sozialgesetzbuch-sgb.de/ "Klick drauf und schau rein!") regelt die gesetzlich verankerte/n
+
+-   Teilhabe von Menschen mit Behinderung ([§ 10 SGB I Teilhabe behinderter Menschen](https://www.sozialgesetzbuch-sgb.de/sgbi/10.html "Klick drauf und schau rein!"))
+
+-   Leistungen für Menschen mit Behinderung ([§ 1 SGB IX Selbstbestimmung und Teilhabe](https://www.sozialgesetzbuch-sgb.de/sgbix/1.html "Klick drauf und schau rein!"))
+
+-   Feststellung von Menschen mit Behinderung ([§ 2 SGB IX Begriffsbestimmungen](https://www.sozialgesetzbuch-sgb.de/sgbix/2.html "Klick drauf und schau rein!"))
+
+Die Kriterien für die Bestimmung des **Grads der Behinderung (GdB)** und **Schädigungsfolgen (GdS)** sind in der [Versorgungsmedizinverordnung](https://www.bmas.de/SharedDocs/Downloads/DE/Publikationen/k710-versorgungsmed-verordnung.pdf?__blob=publicationFile&v=1 "Klick drauf und schau rein!") festgelegt [@bmas2015]
+
+-   **GdS** und **GdB** sind Maße für die körperlichen, geistigen, seelischen und sozialen Auswirkungen einer Funktionsbeeinträchtigung aufgrund eines Gesundheitsschadens
+:::
+
+::: {.column width="50%"}
+### Sonderpägagogischer Förderbedarf (SPF) {.column width="50%"}
+
+**Die [Ausbildungsordnung sonderpädagogische Förderung -- AO-SF](#0 "Klick drauf und schau rein!")** [@mswnrw2016]
+
+-   bildet die **Grundlage zur Zuweisung von Föderressourcen** für sonderpädagogische Bildungs-, Beratungs- und Unterstützungsangebote
+
+-   wird durch die Eltern (Regelfall) oder die Schule (Ausnahmefall) beantragt und eröffnet, die Verfahrensaufsicht obligt der Schulaufsicht und am Prozess sind sind Regelschullehrkräfte Sonderpädagoginnen, das Gesundheitsamt und ggf. weitere Professionen beteiligt.
+
+-   umfasst einen diagnostichen Begutachtungsprozess zur
+
+    -   Feststllellung des **Sonderpädagogische Förderschwerpunktes**, wobei in der AO-SF (Abschnitt 4) **8 Förderschwerpunkte** differnziert werden
+
+    -   Bestimmung des **Förderorts**, wobei seit Schuljahr 2014/2015 die sonderpädagogische Förderung im **Gemeinsamen Lernen** als Regelfall gilt [@schulministeriumnrw2014]
+:::
+:::
+
+## 2. Die fachwissenschaftliche Pespektive: Behinderung {style="font-size:  50%"}
+
+::: columns
+::: {.column width="48%"}
+-   Im Rahmen der *Internationale Klassifikation der Funktionsfähigkeit, Behinderung und Gesundheit* (ICF & ICF-CY) [@worldhealthorganization2001] wird Behinderung als ein dynamisches und flexibles Konstrukt betrachtet, welches
+
+-   neben einem Gesundheitsproblem insbesondere das *Biopsychosoziale Modell von Gesundheit und Krankheit* [@büttner2013] sowie Kontextfaktoren fokussiert und mehrdirektionale Interaktionen berücksichtigt
+
+-   Behinderung wird daher nicht als Eigenschaft einer Person, sondern als abhängig von Kontext und Situation konzeptualisiert, wodurch eine defizitorientierter Sichtweise vermieden werden soll
+:::
+
+::: {.column width="50%"}
+### ICF / ICD-CY als Grundlage [@worldhealthorganization2001; @icf-cy:2013]
+
+![](images/ICF_Modell.png)
+
+-   [Hier](https://www.icf-core-sets.org/de/page0.php "Klick drauf und schau rein!") können Sie sich die Sytematik anschauen und einen ICF-basierten Dokumentationsbogen erstellen
+:::
+:::
+
+## 2. Die fachwissenschaftliche Pespektive: Sonderpädagogischer Förderbedarf (1/2) {style="font-size:  50%"}
+
+-   ***Sonderpädagogischer Förderbedarf*** ist in erster Linie eine schulsozialisatorische Kategorie
+-   Die Förderschwerpunkte in Deutschland sind nur teilweise anschlussfähig an internationale Konzeptualisierungen von Sonderpädagogischem Förderbedarf (Special Educational Needs), wobei die Inklusions- und Exklusionsquoten von Schülerinnen mit sonderpädagogischem Förderbedarf abhängig von Schulform, Bundesland und Förderschwerpunkt stark variieren [@klemm2011; @klemm2022]
+
+[![Abbildung entnommen aus Klemm (2022)](images/Klemm_2022.png){fig-alt="Verteilung der Schülerinnen und Schüler mit sonderpädagogischem Förderbedarf" fig-align="left" width="622"}](https://www.bertelsmann-stiftung.de/fileadmin/files/user_upload/BST-22-010_Inklusionszahlen_Klemm__8.pdf)
+
+## 2. Die fachwissenschaftliche Pespektive: Sonderpädagogischer Förderbedarf (2/2) {style="font-size:  60%"}
+
+::: columns
+::: {.column width="60%"}
+Die wissenschaftliche Perspektive beinhaltet sowohl Aspekte der schulisch-organisatorsichen Rahmenbedingungen, als auch eine interdisziplinäre Sichtweise auf
+
+-   **Bedingungsfaktoren**,
+
+-   **Kontextbedingungen** und
+
+-   **evidenzbasierte Ansätze zur Prävention und Förderung,**
+
+die nicht zwangsläufig kompatibel mit den aktuellen sozialrechtlichen Routinen zur Feststellung des Förderbedarfes sowie des Förderortes ist.
+
+Eine kompakte, fachwisschaftliche Darstellung der sonderpädagogischen Förderschwerpunkte kann der rechts abgebildeten, frei zugänglichlichen Publikation entnommen werden [@sonderpä2016a].
+:::
+
+::: {.column width="40%"}
+[![Sonderpädagogische Förderschwerpunkte in NRW Ein Blick aus der Wissenschaft in die Praxis](images/Bildschirmfoto%202023-03-31%20um%2013.31.55.png){fig-alt="Sonderpädagogische Förderschwerpunkte in NRW Ein Blick aus der Wissenschaft in die Praxis"}](http://gsg.intercoaster.de/icoaster/files/sonderp_d_f_rderschwerpunkte_nrw_stand01_07_2016.pdf)
+:::
+:::
+
+# Diagnostische Klassifikation und Evaluation im Kontext der Inklusion {style="font-size:  40%"}
+
+## Konsequenzen der UN-Behindertenrechtskonvention für Schule und Diagnostik {style="font-size:  60%"}
+
+### UN-Konvention über die Rechte von Personen mit Behinderung [@unitednations2006]:
+
+-   Gewährleistung eines inklusiven Bildungssystems auf allen Ebenen
+-   Menschen mit Behinderung werden nicht vom allgemeinen Schulsystem ausgeschlossen -- weder von der Grundschule noch von weiterführenden Schulen
+-   Treffen von angemessenen Vorkehrungen für die Bedürfnisse der Einzelnen
+-   Ermöglichen der notwendigen Unterstützung, um wirksame Bildung zu ermöglichen
+-   Schülerinnen und Schüler - ob mit oder ohne Behinderung - lernen gemeinsam, zielgleich oder zieldifferent, in allgemeinbildenden Schulen
+
+### Darüber hinaus
+
+-   fordert das Inklusionsparadigma die Überwindung von Diskriminierung durch Selektion entlang unterschiedlicher Heterogenitätsdimensionen [@grosche2017; @grosche2015],
+
+-   was der gegenwärtigen diagnostischen Praxis zur Feststellung sonderpädagogischen Förderbedarfs entgegen steht: ***Das Ressourcen-Ettikettierungs-Dilemma*** [@neumann2020]
+
+## Inklusive Diagnostik im Präventionsparadigma {style="font-size:  60%"}
+
+::: columns
+::: {.column width="40%"}
+-   Zur Überwindung des Ressourcen-Ettikettierungs-Dilemma werden in der Forschung international so genannte Mehrebenen-Präventionsansätze (Multitiered Systems of Support) diskutiert [@stoiber2016a; @grosche2021response; @grosche2013a; @grosche2012a]
+
+-   Diese Ansätze ermöglichen die Verknüpfung diagnostischer Routinen und evidenzbasierter Förderung in einem präventiven Modell, sind sind in Deutschland jedoch bisher nur im Foschungskontext implementiert
+:::
+
+::: {.column width="60%"}
+![Abb. entnommen aus Grosche & Volpe (2013)](images/Bildschirmfoto%202023-03-31%20um%2014.57.42.png)
+:::
+:::
+
+## Literatur {style="font-size:  60%"}
+
+<!-- -->
