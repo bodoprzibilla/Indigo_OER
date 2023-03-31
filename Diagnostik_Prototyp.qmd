@@ -304,13 +304,13 @@ Eine kompakte, fachwisschaftliche Darstellung der sonderpädagogischen Fördersc
 ## Inklusive Diagnostik im Präventionsparadigma {style="font-size:  60%"}
 
 ::: columns
-::: {.column width="40%"}
--   Zur Überwindung des Ressourcen-Ettikettierungs-Dilemma werden in der Forschung international so genannte Mehrebenen-Präventionsansätze (Multitiered Systems of Support) diskutiert [@stoiber2016a; @grosche2021response; @grosche2013a; @grosche2012a]
+::: {.column width="45%"}
+-   Zur Überwindung des Ressourcen-Ettikettierungs-Dilemma werden in der Forschung international so genannte Mehrebenen-Präventionsansätze (Multi-tiered Systems of Support) diskutiert [@stoiber2016a; @grosche2021response; @grosche2013a; @grosche2012a]
 
--   Diese Ansätze ermöglichen die Verknüpfung diagnostischer Routinen und evidenzbasierter Förderung in einem präventiven Modell, sind sind in Deutschland jedoch bisher nur im Foschungskontext implementiert
+-   Diese Ansätze ermöglichen die Verknüpfung diagnostischer Routinen und evidenzbasierter Förderung in einem präventiven Modell, sind in Deutschland jedoch bisher nur im Foschungskontext implementiert [@grosche; @blumenthal2016]
 :::
 
-::: {.column width="60%"}
+::: {.column width="55%"}
 ![Abb. entnommen aus Grosche & Volpe (2013)](images/Bildschirmfoto%202023-03-31%20um%2014.57.42.png)
 :::
 :::
